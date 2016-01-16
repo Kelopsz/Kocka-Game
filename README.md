@@ -1,2 +1,5 @@
 # Kocka-Game
-A sanbox 3D game.
+A sandbox 3D game.
+
+This game is in Early Acces version.
+Have a good time, thanks for downloading!
